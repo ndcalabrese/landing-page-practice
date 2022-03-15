@@ -1,0 +1,17 @@
+.nav-bar-container {
+    background-color: #1f2937;
+    color: white;
+    font-family: 'Hind Madurai', sans-serif;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-link-list {
+    list-style: none;
+    display:flex;
+    font-size: 12px;
+    font-weight: 100;
+}
+.header-logo {
+    display: flex;
+    justify-content: flex-end;
+}
